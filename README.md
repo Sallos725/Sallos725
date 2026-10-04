@@ -1,16 +1,17 @@
-## Hi there 👋
+# Grant
 
-<!--
-**Sallos725/Sallos725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build memory and agent systems for LLMs, mostly around long-running role-play: systems that stay persistent, inspectable, and reproducible beyond a single context window.
 
-Here are some ideas to get you started:
+I like architectures where the model can be probabilistic without making the entire application unpredictable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [**NMOS**](https://github.com/Sallos725/NMOS): local, auditable long-term memory for PocketRisu / RisuAI chats. Immutable history, lexical and optional semantic recall, bounded injection with provenance.
+- [**MARP**](https://github.com/Sallos725/MARP): multi-agent pipeline for RisuAI that analyzes world, plot, and characters in parallel before the main model replies.
+
+Python · TypeScript · Rust
+
+---
+
+Most of what I build starts with *"I wonder if this would work..."*  
+and gets slightly out of hand from there.
